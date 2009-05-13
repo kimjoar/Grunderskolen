@@ -39,6 +39,7 @@ class Fermat
   end
 
   def cache?
+    Dir.mkdir("cache") if !File.directory?("cache")
     Dir.glob(@posts_path + "/*" + @posts_suffix).length != Dir.glob(@cache_path + "/*" + @cache_suffix).length
   end
 
