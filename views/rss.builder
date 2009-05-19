@@ -1,8 +1,8 @@
 xml.instruct! :xml, :version => '1.0'
 xml.rss :version => "2.0" do
   xml.channel do
-    xml.title "Kim Joar Bekkelund - Gründerskolen 2009, San Francisco"
-    xml.description "Om min sommer i San Francisco som Gründerskole-student."
+    xml.title "En sommer i Silicon Valley!"
+    xml.description "Om min sommer i Silicon Valley som Gründerskole-student."
     xml.link "http://gs.kimjoar.net/"
 
     @posts.each do |post|
