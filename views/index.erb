@@ -2,7 +2,7 @@
 
   <ul>
   <% @posts.each do |post| %>
-    <li><a href="/post/<%=post.basename%>"><%=postheading%></a> <small>(<%=postdate.reverse.join(".")%>)</small></li>
+    <li><a href="/post/<%=post.basename%>"><%=post.heading%></a> <small>(<%=post.date.reverse.join(".")%>)</small></li>
   <% end %>
   </ul>
 
