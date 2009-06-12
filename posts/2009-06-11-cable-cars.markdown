@@ -13,8 +13,8 @@ Etter Chinatown så vi en [Cable Car](http://www.sfcablecar.com/), og vi var sol
 
 På Fisherman's Wharf stakk vi innom Musée Mécanique, som [fint forklart](http://www.museemecaniquesf.com/) er en "privately owned collection of coin-operated mechanical musical instruments and antique arcade machines". Det kostet stort sett en quarter å spille på hver av de, så det var jo en ypperlig måte å bli kvitt mynter på.
 
-Etter å ha spilt litt måtte det spises. På leting etter spiseplass fant vi Hooters. Stort mer tacky blir det ikke, men de hadde selvironi nok til å ha "Delightfully tacky" på antrekket. Det var muligens det eneste som var bra med hele opplegget.
+Etter å ha spilt litt måtte det spises. På leting etter spiseplass fant vi Hooters. Stort mer tacky blir det ikke, men de hadde selvironi nok til å ha "Delightfully tacky" på ryggen av antrekket. Det var muligens det eneste som var bra med hele opplegget.
 
-Men tilbake til mat. Vi fant etterhvert [Buena Vista](http://www.thebuenavista.com/) som ga en positiv feeling, så det måtte testes. Det ble en Blue Burger, en anbefalt hamburger med blåskimmelost. Etter mat stakk vi innom [Ghirardelli](http://www.ghirardelli.com/), som visstnok er det beste sjokoladeområdet i byen. Dessverre var vi altfor mett til å prøve oss på sjokoladen. Men tro meg, jeg skal innom der og teste sjokoladen og isen før jeg drar hjemmover!
+Men tilbake til mat. Vi fant etterhvert [Buena Vista](http://www.thebuenavista.com/) som ga en positiv feeling, så det måtte testes. Det ble en Blue Burger, en anbefalt hamburger med blåskimmelost. Men såklart, etter mat fant vi sjokolade. Og mye sjokolade. Og visstnok fantastisk god sjokolade. Vi fant nemlig [Ghirardelli](http://www.ghirardelli.com/), som visstnok er det beste sjokoladeområdet i byen. Dessverre var vi altfor mett til å prøve oss på sjokoladen. Men tro meg, jeg skal innom der og teste sjokoladen og isen før jeg drar hjemmover!
 
 Kort og godt en utrolig bra dag. San Francisco anbefales. God natt.
